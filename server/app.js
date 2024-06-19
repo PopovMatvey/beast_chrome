@@ -14,7 +14,7 @@ const urlRequest = '/api/contacts';         // url request api
 const arrayPartnersSlider = getFiles('./static/images/Slider/Parnters/');
 // const arrayImageSlayderPortfolio = getFiles('./static/media/images/');
 // const arrayVideosSlayderPortfolio =  getFiles('./static/media/videos/');
-const arrayAllMedia = getFiles('./static/media/');
+// const arrayAllMedia = getFiles('./static/media/');
 const arrayPortfolioSlider = [
     'http://z92017tk.beget.tech/static/images/Slider/Portfolio/collection.jpg',
     'http://z92017tk.beget.tech/static/images/Slider/Portfolio/double_headed_eagle.jpg',
@@ -40,7 +40,7 @@ const arrayYouTubeVideos = [
     "QqgBzPfBkj0",
 ];
 
-console.log(arrayAllMedia);
+// console.log(arrayAllMedia);
 
 /*Methods*/
 // get all files in determ directory
