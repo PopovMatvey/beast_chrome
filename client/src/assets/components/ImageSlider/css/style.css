@@ -11,6 +11,7 @@
 }
 
 .inner {
+  height: 200px;
   white-space: nowrap;
   transition: transform 0.3s;
 }

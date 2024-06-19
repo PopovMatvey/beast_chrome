@@ -9,6 +9,7 @@ import { ImageSlider } from "../../components/ImageSlider";
 import { VideoSlider } from "../../components/VideoSlider";
 import { arrayPortfolioImages } from "./data/images";
 import { videosPortfolioArray as arrayPortfolioVideos, videosPortfolioArray } from "./data/videos";
+import { YouTudeVideoSlider } from "../../components/YouTubeVideoSlider";
 
 // Наши работы
 export function OurWorks() {
@@ -38,7 +39,7 @@ export function OurWorks() {
                         <ImageSlider items={arrayPortfolioImages} />
                     </div>
                     <div className="out-works-container_beginner-screen_portfolio_contaiiner_videos">
-                        <VideoSlider items={videosPortfolioArray} />
+                        <YouTudeVideoSlider items={videosPortfolioArray} />
                     </div>
                 </div>
             </div>

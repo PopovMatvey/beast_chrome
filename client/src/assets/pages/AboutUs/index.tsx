@@ -5,6 +5,7 @@ import imgFirst from "./images/img1.svg";
 import imgSecond from "./images/img2.svg";
 import imgThird from './images/znachok-avto-iz-chroma.jpg';
 import imgFouth from './images/model-of-car-wheel.jpg';
+import { YouTubeVideo } from "../../components/YouTubeVideo";
 
 /***
  * Компонент "О нас"
@@ -102,9 +103,10 @@ export function AboutUs() {
                 <div className="abuot-us-container_video">
                     <h3>Видео о нас</h3>
                     <div className="abuot-us-container_video_component">
-                        <video controls={true} >
+                    <YouTubeVideo videoId={"s233Bk_79mI"} />
+                        {/* <video controls={true} >
                             <source src={hrefOnAcquaintanceVideo} />
-                        </video>
+                        </video> */}
                     </div>
                 </div>
                 <div className="about-us-container_serteficates">
