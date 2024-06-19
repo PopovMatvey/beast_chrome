@@ -12,6 +12,9 @@ app.use(cors());
 const PORT_APP = 2002;                      // app port
 const urlRequest = '/api/contacts';         // url request api
 const arrayPartnersSlider = getFiles('./static/images/Slider/Parnters/');
+// const arrayImageSlayderPortfolio = getFiles('./static/media/images/');
+// const arrayVideosSlayderPortfolio =  getFiles('./static/media/videos/');
+const arrayAllMedia = getFiles('./static/media/');
 const arrayPortfolioSlider = [
     'http://z92017tk.beget.tech/static/images/Slider/Portfolio/collection.jpg',
     'http://z92017tk.beget.tech/static/images/Slider/Portfolio/double_headed_eagle.jpg',
@@ -36,6 +39,7 @@ const arrayYouTubeVideos = [
     "QqgBzPfBkj0",
     "QqgBzPfBkj0",
 ];
+
 
 
 /*Methods*/
@@ -78,6 +82,15 @@ app.get('/api/slider/image/partners', (req, res) => {
 app.get('/api/slider/image/protfolio', (req, res) => {
     res.status(200).json(arrayPortfolioSlider);
 });
+
+app.get('api/portfolio/images', (req,res)=>{
+    res.status(200).json(arrayImageSlayderPortfolio);
+})
+
+app.get('api/portfolio/videos', (req,res)=>{
+    res.status(200).json(arrayVideosSlayderPortfolio);
+})
+
 
 // Получить массив путей до изображений "Учеников"
 app.get('/api/slider/image/students', (req, res) => {
