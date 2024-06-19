@@ -40,7 +40,7 @@ const arrayYouTubeVideos = [
     "QqgBzPfBkj0",
 ];
 
-
+console.log(arrayAllMedia);
 
 /*Methods*/
 // get all files in determ directory
