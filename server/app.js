@@ -83,13 +83,13 @@ app.get('/api/slider/image/protfolio', (req, res) => {
     res.status(200).json(arrayPortfolioSlider);
 });
 
-app.get('api/portfolio/images', (req,res)=>{
-    res.status(200).json(arrayImageSlayderPortfolio);
-})
+// app.get('api/portfolio/images', (req,res)=>{
+//     res.status(200).json(arrayImageSlayderPortfolio);
+// })
 
-app.get('api/portfolio/videos', (req,res)=>{
-    res.status(200).json(arrayVideosSlayderPortfolio);
-})
+// app.get('api/portfolio/videos', (req,res)=>{
+//     res.status(200).json(arrayVideosSlayderPortfolio);
+// })
 
 
 // Получить массив путей до изображений "Учеников"
