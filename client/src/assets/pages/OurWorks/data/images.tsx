@@ -8,7 +8,7 @@ export const arrayPortfolioImages = [
     'https://sun9-42.userapi.com/impg/PWMlg5Isk3JjNvXzCpE6CAdJ8l3N2SyjM1ZlYQ/JY_j2hN9yC4.jpg?size=768x1024&quality=95&sign=c15f9a277c8a53ff0909d65ac9e12e64&type=album',
     'https://sun9-13.userapi.com/impg/IbuFbMKmpFm42U-Dp5IW3bhcbnGaLFufecW0Hg/bKyxa3Vu5xY.jpg?size=2560x1920&quality=95&sign=4d8fb797653a73c923083e8f27dcb301&type=album',
     'https://sun9-16.userapi.com/impg/Nqqg4Mrj9p8Fk4u9cIELrIY2BXae7KDOZJdAeA/oFg2umNOv38.jpg?size=2560x1707&quality=95&sign=7171c2e5cfdeaf34060b2cc4ac6f0eac&type=album',
-    'http://bestchrome.beget.tech/photo/PHOTO-2023-11-14-10-16-26.https://sun9-40.userapi.com/impg/DJYE2YHfjISIaI457l9m0f9-6oHAXaDQh3fhPw/nn3kNsYsic0.jpg?size=2560x1707&quality=95&sign=df49f9e3fdc353e4b79f8f72bb47e8c3&type=album',
+    'https://sun9-58.userapi.com/impg/iRHu7QZfPZpTQ_XgsjMIpotw9VjEHCaJ9KI9hw/gZdh2HpCOQQ.jpg?size=2560x1920&quality=95&sign=56ac9ac04ead495ca440a3516cd06e71&type=album',
     'https://sun9-58.userapi.com/impg/iRHu7QZfPZpTQ_XgsjMIpotw9VjEHCaJ9KI9hw/gZdh2HpCOQQ.jpg?size=2560x1920&quality=95&sign=56ac9ac04ead495ca440a3516cd06e71&type=album',
     'https://sun9-7.userapi.com/impg/TcWCSUxeoml1zUMcqmpaweE9GjGYiDZVUAeA1Q/CvxA9KXHYWU.jpg?size=2560x1440&quality=95&sign=2d88de731bdebfc806bc3fb29071eadb&type=album',
     'https://sun9-49.userapi.com/impg/1n9glSJIKCm4eoNJKwvsLxMESdJWoDO-SsqQGw/ndzLH6_J6pw.jpg?size=2560x1440&quality=95&sign=a46ec86be0184888fdf98a72d1116c59&type=album',
