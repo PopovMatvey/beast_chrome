@@ -11,7 +11,7 @@ import { YouTubeVideo } from "../../components/YouTubeVideo";
  * Компонент "О нас"
  */
 export function AboutUs() {
-    const hrefOnAcquaintanceVideo = "http://bestchrome.beget.tech/videos/meeting.mp4";
+    // const hrefOnAcquaintanceVideo = "http://bestchrome.beget.tech/videos/meeting.mp4";
     const arraySertsImage = [
 
         {
@@ -103,7 +103,7 @@ export function AboutUs() {
                 <div className="abuot-us-container_video">
                     <h3>Видео о нас</h3>
                     <div className="abuot-us-container_video_component">
-                    <YouTubeVideo videoId={"s233Bk_79mI"} />
+                    <YouTubeVideo videoId={"3fgPiXmMahc"} />
                         {/* <video controls={true} >
                             <source src={hrefOnAcquaintanceVideo} />
                         </video> */}

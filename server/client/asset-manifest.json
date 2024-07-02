@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.968624fd.css",
-    "main.js": "/static/js/main.c7cc59e2.js",
+    "main.js": "/static/js/main.dcbd8488.js",
     "static/js/787.c6b640df.chunk.js": "/static/js/787.c6b640df.chunk.js",
     "static/media/model-of-car-wheel.jpg": "/static/media/model-of-car-wheel.8052ddab44491401a9d0.jpg",
     "static/media/img2.svg": "/static/media/img2.c4deabb022154aac51dba8ea131acf75.svg",
@@ -32,11 +32,11 @@
     "index.html": "/index.html",
     "static/media/telegram.svg": "/static/media/telegram.96fac1dc478c0dab86b5155d8e7493c4.svg",
     "main.968624fd.css.map": "/static/css/main.968624fd.css.map",
-    "main.c7cc59e2.js.map": "/static/js/main.c7cc59e2.js.map",
+    "main.dcbd8488.js.map": "/static/js/main.dcbd8488.js.map",
     "787.c6b640df.chunk.js.map": "/static/js/787.c6b640df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.968624fd.css",
-    "static/js/main.c7cc59e2.js"
+    "static/js/main.dcbd8488.js"
   ]
 }
