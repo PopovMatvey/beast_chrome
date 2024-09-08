@@ -7,6 +7,7 @@ import { Learning } from "../../pages/Learning";
 import { Services } from "../../pages/Services";
 import { Shop } from "../../pages/Shop";
 import { OurWorks } from "../../pages/OurWorks";
+import { AdminPage } from "../../pages/Admin";
 
 // Основной контент
 export function MainContent() {
@@ -21,6 +22,7 @@ export function MainContent() {
                     <Route path={"/learning"} element={<Learning/>}></Route>
                     <Route path={"/ourWorks"} element={<OurWorks/>}></Route>
                     <Route path={"/contacts"} element={<Contacts/>}></Route>
+                    <Route path={"/admin"} element={<AdminPage/>}></Route>
                 </Routes>
             </div>
         </>

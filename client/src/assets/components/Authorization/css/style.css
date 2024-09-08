@@ -1,0 +1,26 @@
+.authorization-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #000;
+}
+
+.authorization-container input{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 5px 30px;
+    margin: 5px;
+}
+
+.authorization-container label{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+.authorization-container .button-submit{
+    display: block;
+    padding: 5px 30px;
+}
