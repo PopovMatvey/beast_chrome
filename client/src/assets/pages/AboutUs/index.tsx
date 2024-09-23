@@ -53,7 +53,7 @@ export function AboutUs() {
                         <h1>О нас</h1>
                         <div className="about-us-container_beginner-screen_content__row">
                             <div className="about-us-container_beginner-screen_content__row_image-block">
-                                <img src={imgFirst} alt="Изображение начального экрана" />
+                                <img src={imgFirst} alt="Изображение начального экрана" loading={"lazy"}/>
                             </div>
                             <span>
                                 BestChrome – компания, знающая своё дело c 2016 года.
@@ -68,7 +68,7 @@ export function AboutUs() {
                                 Зеркальному покрытию можно придать различную цветовую гамму, а также выполнить его под хром, золото, медь, бронзу, латунь. Данное покрытие защищает от коррозии и ультрафиолетовых лучей.
                             </span>
                             <div className="about-us-container_beginner-screen_content__row_image-block">
-                                <img src={imgSecond} alt="Изображение начального экрана" />
+                                <img src={imgSecond} alt="Изображение начального экрана" loading={"lazy"}/>
                             </div>
                         </div>
 

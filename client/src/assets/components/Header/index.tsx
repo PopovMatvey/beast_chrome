@@ -9,7 +9,7 @@ export function Header(){
     return(
         <header>
             <HeaderInformation/>
-            <img src={header} alt="Фон шапки" />
+            <img src={header} alt="Фон шапки" loading={"lazy"}/>
         </header>
     );
 }
